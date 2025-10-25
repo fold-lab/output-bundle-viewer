@@ -1,0 +1,38 @@
+[
+  {
+    "filename": "2OUTPUT__2025-10-25_22-16__artist_category_flat.csv",
+    "size_bytes": 29
+  },
+  {
+    "filename": "2OUTPUT__2025-10-25_22-16__artist_category_map.json",
+    "size_bytes": 2
+  },
+  {
+    "filename": "2OUTPUT__2025-10-25_22-16__artist_category_summary.html",
+    "size_bytes": 299
+  },
+  {
+    "filename": "2OUTPUT__2025-10-25_22-21__artist_category_flat.csv",
+    "size_bytes": 29
+  },
+  {
+    "filename": "2OUTPUT__2025-10-25_22-21__artist_category_map.json",
+    "size_bytes": 2
+  },
+  {
+    "filename": "2OUTPUT__2025-10-25_22-21__artist_category_summary.html",
+    "size_bytes": 158
+  },
+  {
+    "filename": "2OUTPUT__2025-10-25_22-21__before_after.html",
+    "size_bytes": 2146
+  },
+  {
+    "filename": "2OUTPUT__2025-10-25_22-21__metrics.json",
+    "size_bytes": 61
+  },
+  {
+    "filename": "2OUTPUT__2025-10-25_22-21__suggestions.json",
+    "size_bytes": 17
+  }
+]
