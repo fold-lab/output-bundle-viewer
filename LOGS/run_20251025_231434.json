@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-10-25T23:14:34.385916",
+  "files": [
+    "2OUTPUT__2025-10-25_22-16__artist_category_flat.csv",
+    "2OUTPUT__2025-10-25_22-16__artist_category_map.json",
+    "2OUTPUT__2025-10-25_22-16__artist_category_summary.html",
+    "2OUTPUT__2025-10-25_22-21__artist_category_flat.csv",
+    "2OUTPUT__2025-10-25_22-21__artist_category_map.json",
+    "2OUTPUT__2025-10-25_22-21__artist_category_summary.html",
+    "2OUTPUT__2025-10-25_22-21__before_after.html",
+    "2OUTPUT__2025-10-25_22-21__metrics.json",
+    "2OUTPUT__2025-10-25_22-21__suggestions.json"
+  ],
+  "actions": [
+    "upload"
+  ]
+}
